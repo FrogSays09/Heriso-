@@ -15,7 +15,7 @@ const DEFAULT_VOICE_BITRATE = 64000;
 const MAX_VOICE_BITRATE = 384000;
 const MIN_VOICE_BITRATE = 8000;
 const MAX_CHANNEL_NAME_LENGTH = 100;
-const FALLBACK_CHANNEL_NAME = 'Voice Room';
+const FALLBACK_CHANNEL_NAME = '➕〢روم・صوتي・مؤقت';
 const MAX_TRACKED_COOLDOWNS = 10000;
 
 export default {
